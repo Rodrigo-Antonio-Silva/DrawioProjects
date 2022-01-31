@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigo-antonio-silva" alt="rodrigo-antonio-silva" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rodrigo silva" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo silva?logo=twitter&style=for-the-badge" alt="rodrigo silva" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rodrigo_silva" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo_silva?logo=twitter&style=for-the-badge" alt="rodrigo_silva" /></a> </p>
 
 - 🔭 I’m currently working on **RPA with Automation Anywhere**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rodrigo silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodrigo silva" height="30" width="40" /></a>
+<a href="https://twitter.com/rodrigo_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodrigo_silva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rodrigo-antonio-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rodrigo-antonio-silva" height="30" width="40" /></a>
 <a href="https://kaggle.com/rodrigo silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rodrigo silva" height="30" width="40" /></a>
 </p>
@@ -38,7 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-antonio-silva&show_icons=true&locale=en" alt="rodrigo-antonio-silva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-antonio-silva&" alt="rodrigo-antonio-silva" /></p>
-
-
-
 
