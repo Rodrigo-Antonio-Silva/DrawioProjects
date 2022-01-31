@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 <h1 align="center">Hi 👋, I'm Rodrigo Silva</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
@@ -43,4 +43,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-antonio-silva&" alt="rodrigo-antonio-silva" /></p>
 
 
--->
