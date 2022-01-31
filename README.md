@@ -9,6 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-antonio-silva&show_icons=true&locale=en" alt="rodrigo-antonio-silva" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-antonio-silva&" alt="rodrigo-antonio-silva" /></p>
 
 <p align="left"> <a href="https://twitter.com/rodrigo_silva" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo_silva?logo=twitter&style=for-the-badge" alt="rodrigo_silva" /></a> </p>
 
@@ -40,6 +41,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-antonio-silva&" alt="rodrigo-antonio-silva" /></p>
 
 
