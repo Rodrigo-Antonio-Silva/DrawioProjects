@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Silva</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://twitter.com/rodrigo_silva" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo_silva?logo=twitter&style=for-the-badge" alt="rodrigo_silva" /></a> </p>
-
 - 🔭 I’m currently working on **RPA with Automation Anywhere**
 
 - 🌱 I’m currently learning **Data Science with Python and R**
