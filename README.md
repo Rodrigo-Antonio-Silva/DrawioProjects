@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Silva</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou o Rodrigo">
+</p>
+
+<!--
+How to make this gif ?
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Thanks matyo91!
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
 - 🔭 I’m currently working on **RPA with Automation Anywhere**
 
